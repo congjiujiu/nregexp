@@ -1,0 +1,18 @@
+{
+  "name": "nexp",
+  "version": "0.0.1",
+  "description": "nighting's exp",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exp"
+  ],
+  "author": "Nighting",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
